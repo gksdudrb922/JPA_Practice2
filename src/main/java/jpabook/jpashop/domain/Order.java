@@ -1,6 +1,5 @@
 package jpabook.jpashop.domain;
 
-import jdk.jfr.Enabled;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
